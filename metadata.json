@@ -1,0 +1,6 @@
+{
+  "name": "교육실적 통계 도우미",
+  "description": "교육운영 엑셀 데이터를 브라우저에서 안전하게 집계하고 보고용 지표와 요약문을 생성하는 업무 도우미",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
